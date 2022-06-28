@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a6040f1.css",
+    "main.js": "/static/js/main.3f97263b.js",
+    "static/js/787.625004a2.chunk.js": "/static/js/787.625004a2.chunk.js",
+    "static/media/lol.png": "/static/media/lol.b413a1d5cf8bfe5fbf9b.png",
+    "static/media/odyssey.png": "/static/media/odyssey.75c3ca8510a219b57160.png",
+    "static/media/apex.png": "/static/media/apex.e5e727d1da8b0f8df6da.png",
+    "static/media/minecraft.png": "/static/media/minecraft.d67421c5852e1d94dc55.png",
+    "static/media/terra.png": "/static/media/terra.ea39c434b72507de68a8.png",
+    "static/media/phasmo.png": "/static/media/phasmo.d37bb38c0339b2ddbdd0.png",
+    "static/media/dota.png": "/static/media/dota.aea99637fcd55bde281e.png",
+    "static/media/valorant.png": "/static/media/valorant.e82ea29dc1c5f0ed0bcd.png",
+    "static/media/mh_rise.jpg": "/static/media/mh_rise.c8d0a35e6d55d4d2ac74.jpg",
+    "static/media/rdr2.jpg": "/static/media/rdr2.c1709e90dcc249e6bf81.jpg",
+    "static/media/heat.jpg": "/static/media/heat.8200a64777baaea3038b.jpg",
+    "static/media/gta5.jpg": "/static/media/gta5.e1cf0e73887cf2bd420f.jpg",
+    "static/media/dying_light_2.jpg": "/static/media/dying_light_2.e2621deef2049cec09c7.jpg",
+    "static/media/elden_ring.jpg": "/static/media/elden_ring.b4bffae788cf3f0ecf86.jpg",
+    "static/media/skyrim.jpg": "/static/media/skyrim.c941d090d939d4c45ffe.jpg",
+    "static/media/thewitcher3.jpg": "/static/media/thewitcher3.c4c310276c5843350279.jpg",
+    "static/media/csgo.jpg": "/static/media/csgo.04f1d08aec9819913ec3.jpg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.ff5006469e3a0769669fda1d19c5fbe4.svg",
+    "main.8a6040f1.css.map": "/static/css/main.8a6040f1.css.map",
+    "main.3f97263b.js.map": "/static/js/main.3f97263b.js.map",
+    "787.625004a2.chunk.js.map": "/static/js/787.625004a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a6040f1.css",
+    "static/js/main.3f97263b.js"
+  ]
+}
